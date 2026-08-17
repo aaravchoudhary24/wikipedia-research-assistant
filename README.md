@@ -1,6 +1,6 @@
 # Wikipedia Research Assistant 🔎
 
-A small research assistant I built in Python to make exploring unfamiliar topics a little quicker.
+A Python-based research assistant that uses Wikipedia’s API to quickly retrieve information about unfamiliar topics and suggest related areas to explore.
 
 The idea was simple: enter a topic, let the program search Wikipedia, get a short summary, and then see what related topics might be worth exploring next.
 
